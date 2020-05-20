@@ -20,4 +20,4 @@ console.log("Hello, world!");
 console.log("Goodbye!");
 
 console.log("again");
-console.log("created new page");
+console.log("created new cool page");
