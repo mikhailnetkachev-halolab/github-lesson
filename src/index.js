@@ -18,3 +18,5 @@ serviceWorker.unregister();
 
 console.log("Hello, world!");
 console.log("Goodbye!");
+
+console.log("again");
